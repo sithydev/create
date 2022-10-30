@@ -1,2 +1,2 @@
-# create
-Create your own Hexes!
+# SITHFUN Create [BETA]
+Create your own Hexes to Hexagon with SITHFUN Create!
